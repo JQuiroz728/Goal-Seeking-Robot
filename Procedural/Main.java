@@ -9,7 +9,7 @@ public class Main {
 
     public static void loadMaze() {  //Creates maze from given text file
         String fileName = "game.txt";
-        Scanner loader = new Scanner(GoalSeekingRobotGame.class.getResourceAsStream(fileName));
+        Scanner loader = new Scanner(Main.class.getResourceAsStream(fileName));
         loadStats(loader);
         loader.nextLine(); //Discard the rest of the stats' line; it's not part of the maze
         loadWorld(loader);
