@@ -1,6 +1,6 @@
 # Goal-Seeking-Robot
 
-Quirky game where you are able to control a robot and lead it in search of the goal.
+Quirky game where you are in control of the robot and lead it in search of the goal.
 
 Specifications of the game:
 There is an artificial environment that a robot can walk freely on. The user controls the robot's movement.
