@@ -2,7 +2,7 @@
 
 Quirky game where you are in control of the robot and lead it in search of the goal.
 
-Specifications of the game:
+Specifications:
 There is an artificial environment that a robot can walk freely on. The user controls the robot's movement.
 The environment will be loaded automatically from a given .txt file. The environment is a 2D character set.
 Your program should read a 2D array of characters. Your program should store the entire map inside an array.
