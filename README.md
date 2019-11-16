@@ -10,4 +10,4 @@ To move the robot, you give the commands like u for up and d for down and... If 
 produce a new command. After each move, the energy of the robot reduces by one. If you receive to the goal point
 within the number of allowed steps (i.e. The total energy), you win. If you run out of steps, you lose. If you enter 
 a blank line the program exits. Your program should store the states of the robot on private static member variables.
-Create procedural and an object-oriented versions of the game.
+Create both a procedural and an object-oriented version of this game.
